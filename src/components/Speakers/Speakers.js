@@ -1,6 +1,6 @@
 import React from "react";
 
-const Speaker = () => {
+const Speakers = () => {
   const speakers = [
     {
       imageSrc: "speaker-component-1124",
@@ -26,4 +26,4 @@ const Speaker = () => {
   );
 };
 
-export default Speaker;
+export default Speakers;
